@@ -1,0 +1,23 @@
+
+# Node.js
+**/node_modules/
+
+# React / Vite build
+**/dist/
+**/build/
+
+# .NET build files
+**/bin/
+**/obj/
+
+# Environment variables
+**/.env
+**/.env.*
+!**/.env.example
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
